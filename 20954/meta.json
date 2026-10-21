@@ -1,0 +1,35 @@
+{
+ "anilistId": 20954,
+ "slug": "a-silent-voice",
+ "judul": {
+  "utama": "A Silent Voice",
+  "romaji": "a silent voice",
+  "native": "Koe no Katachi"
+ },
+ "deskripsi": {
+  "id": null,
+  "en": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n\n\n(Source: Eleven Arts)"
+ },
+ "rating": {
+  "skor": 8.8,
+  "suara": 342608,
+  "sumberSkor": "katalog"
+ },
+ "genre": [
+  "Drama",
+  "Romance",
+  "Slice of Life"
+ ],
+ "tahun": 2016,
+ "musim": "SUMMER",
+ "status": "FINISHED",
+ "totalEpisode": 1,
+ "format": "MOVIE",
+ "durasiMenit": 130,
+ "studio": "Kyoto Animation",
+ "dibekukanPada": "2026-10-21T16:34:03.143Z",
+ "sumber": {
+  "katalog": true,
+  "pengisiCelah": "kitsu"
+ }
+}
